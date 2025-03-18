@@ -1,7 +1,6 @@
 # This is the template code for the CNE335 Final Project
-# Justin Ellis
-# CNE 335 Fall
-
+# Lidsyda Nouanphachan
+# CNE 335 Fall Winter
 def print_program_info():
     # TODO - Change your name
     print("Server Automator v0.1 by Your Name")
